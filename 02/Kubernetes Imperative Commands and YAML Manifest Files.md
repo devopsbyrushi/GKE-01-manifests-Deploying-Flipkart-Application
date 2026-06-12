@@ -1,4 +1,4 @@
-# Chapter 07: Kubernetes Imperative Commands and YAML Manifest Files
+# Chapter 02: Kubernetes Imperative Commands and YAML Manifest Files
 
 ## Introduction
 
